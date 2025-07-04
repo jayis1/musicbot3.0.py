@@ -19,16 +19,16 @@ run musicbot3.0.py with ./musicbot3.0.py
 
 prefix = ?
 
-join
-leave
-search
-play
-volume %
-queue
-remove "number" (from queue) 
-shuffle
-loop
-skip
-stop
+join,
+leave,
+search,
+play,
+volume %,
+queue,
+remove "number" (from queue), 
+shuffle,
+loop,
+skip,
+stop,
 
 nowplaying (now shows real time song and queue and duration)
